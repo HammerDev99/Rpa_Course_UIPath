@@ -4,6 +4,8 @@ Autor: Daniel Arbeláez
 
 Fecha: 23-06-2022
 
+Link al curso: [RPA Starter](https://academy.uipath.com/learning-plans/rpa-starter)
+
 ## Tabla de contenido
 
 - [Introduction to RPA and automation](#introduction-to-rpa-and-automation)
@@ -97,7 +99,7 @@ Algunos de las actividades en las que se puede aplicar la RPA son:
 
 ![alt](assets/Lifecycle_Process_Analysts.JPG)
 
-Meet StudioX: Es una herramienta que se utiliza para crea el flujo de trabajo de una automatización
+Meet StudioX: Es una herramienta que se utiliza para crea el flujo de trabajo de una automatización de una forma no-code
 
 ![alt](assets/RPA_PlanningWheel.JPG)
 
