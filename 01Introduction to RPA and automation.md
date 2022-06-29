@@ -1,7 +1,8 @@
 # Introduction to RPA and automation
 
-~~Autor: Daniel Arbeláez
-Fecha: 23-06-2022~~
+Autor: Daniel Arbeláez
+
+Fecha: 23-06-2022
 
 ## Tabla de contenido
 
@@ -71,3 +72,35 @@ Algunos de las actividades en las que se puede aplicar la RPA son:
 > La automatización no sólo repercute en los ingresos y el tiempo: la automatización de las tareas repetitivas también conduce a una mejora de la experiencia de los clientes y los empleados, facilita las operaciones de IA, garantiza el cumplimiento de la normativa y agiliza el proceso de toma de decisiones.
 
 ## The Automation Journey
+
+![alt](assets/RPA_Journey.JPG)
+
+- **Discover**: Esta fase se centra en la definición de la gobernanza de los procesos y en el uso de los datos para para elegir los procesos adecuados para la automatización; las oportunidades de automatización las identifica el empleado o las tecnologías impulsadas por la IA.
+- **Build**: En la fase de construcción hay soluciones que se dirigen a:
+  - **Professional automation developers**: Que ofrecen potentes herramientas de desarrollo y depuración, integraciones avanzadas, así como funciones.
+  - **Business Users**: Que automatizan rápidamente sus aplicaciones empresariales sin necesidad de recursos de desarrollo o conocimientos de codificación.
+- **Management**: Las capacidades de gestión ayudan a probar, desplegar, gestionar y optimizar el rendimiento de la flota de robots y de las capacidades de IA.
+- **Running**: El funcionamiento de los robots tiene que ofrecer flexibilidad, ajustándose a los tipos de procesos automatizados, al tipo de colaboración entre humanos y robots y a la configuración existente.
+- **Engagement**: El compromiso entre los usuarios humanos y los robots se produce de forma sencilla, siempre que sea necesario.
+
+![alt](assets/RPA_Lifecycle.JPG)
+
+![alt](assets/Lifecycle_Ceo_1.JPG)
+
+![alt](assets/Lifecycle_Ceo_2.JPG)
+
+![alt](assets/Lifecycle_RPA_Developer.JPG)
+
+![alt](assets/Lifecycle_IT_Operations.JPG)
+
+![alt](assets/Lifecycle_Automation_Users.JPG)
+
+![alt](assets/Lifecycle_Process_Analysts.JPG)
+
+Meet StudioX: Es una herramienta que se utiliza para crea el flujo de trabajo de una automatización
+
+![alt](assets/RPA_PlanningWheel.JPG)
+
+![alt](assets/RPA__AppsJourney.JPG)
+
+Para mayor detalle de cada uno de las herramientas de UIPath, ingresar al documento [The UiPath Platform](assets/The_UiPath_Platform.pdf)
