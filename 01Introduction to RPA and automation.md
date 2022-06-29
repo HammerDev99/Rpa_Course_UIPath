@@ -73,7 +73,7 @@ Algunos de las actividades en las que se puede aplicar la RPA son:
 
 ## The Automation Journey
 
-![alt](assets/RPA_Journey.JPG)
+![alt](assets/RPA__AppsJourney.JPG)
 
 - **Discover**: Esta fase se centra en la definición de la gobernanza de los procesos y en el uso de los datos para para elegir los procesos adecuados para la automatización; las oportunidades de automatización las identifica el empleado o las tecnologías impulsadas por la IA.
 - **Build**: En la fase de construcción hay soluciones que se dirigen a:
@@ -100,7 +100,5 @@ Algunos de las actividades en las que se puede aplicar la RPA son:
 Meet StudioX: Es una herramienta que se utiliza para crea el flujo de trabajo de una automatización
 
 ![alt](assets/RPA_PlanningWheel.JPG)
-
-![alt](assets/RPA__AppsJourney.JPG)
 
 Para mayor detalle de cada uno de las herramientas de UIPath, ingresar al documento [The UiPath Platform](assets/The_UiPath_Platform.pdf)
