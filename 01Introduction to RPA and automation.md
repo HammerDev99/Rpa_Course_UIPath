@@ -104,3 +104,5 @@ Meet StudioX: Es una herramienta que se utiliza para crea el flujo de trabajo de
 ![alt](assets/RPA_PlanningWheel.JPG)
 
 Para mayor detalle de cada uno de las herramientas de UIPath, ingresar al documento [The UiPath Platform](assets/The_UiPath_Platform.pdf)
+
+[Diploma de finalización de estudios](assets/LearningPath_Certificate_06302022122608768.pdf)
