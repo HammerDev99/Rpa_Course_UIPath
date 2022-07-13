@@ -4,7 +4,7 @@ Autor: Daniel Arbeláez
 
 Fecha: 23-06-2022
 
-Link al curso: [RPA Starter](https://academy.uipath.com/learning-plans/rpa-starter)
+Link al plan de aprendizaje: [RPA Starter](https://academy.uipath.com/learning-plans/rpa-starter)
 
 ## Tabla de contenido
 
