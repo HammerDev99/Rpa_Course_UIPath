@@ -27,10 +27,13 @@ Link al plan de aprendizaje: [RPA Business Analyst Foundation](https://academy.u
       - [Métodos y herramientas para documentar procesos](#métodos-y-herramientas-para-documentar-procesos)
       - [Actividades o procesos que no se pueden automatizar](#actividades-o-procesos-que-no-se-pueden-automatizar)
       - [Manejo de excepciones](#manejo-de-excepciones)
+      - [Historial de documento y flujo de aprobación](#historial-de-documento-y-flujo-de-aprobación)
+      - [Recursos adicionales](#recursos-adicionales)
     - [Build RPA](#build-rpa)
     - [Test RPA](#test-rpa)
     - [Stabilize RPA](#stabilize-rpa)
     - [Constant Improvement (Mejora continua)](#constant-improvement-mejora-continua)
+      - [Recursos Adicionales](#recursos-adicionales-1)
 
 ## INTRODUCTION TO THE RPA BUSINESS ANALYST ROLE
 
@@ -165,14 +168,62 @@ También debe documentarse si la aplicación del sistema que usa el robot puede 
 
 Adicionalmente, existen excepciones conocidas y desconocidas que deben documentarse e igualmente son las que en primer lugar se conocen y tienen una posible solución para su buena ejecución y en segundo lugar son las que pueden llegar a suceder pero que se desconocen.
 
+#### Historial de documento y flujo de aprobación
+
+- Historial de documento: Contiene la fecha de creación del documento o de las versiones, el nombre, el rol, función y comentarios que resumen los cambios en esa versión concreta.
+
+#### Recursos adicionales
+
+[Documento del Diseño del Proceso - Plantilla](assets/PDD_Template.docx)
+
+[Escenario de prueba - Plantilla](assets/Test_Scenario_Template.xlsx)
+
+[Caso de prueba - Plantilla](assets/Test_Case_Template.xlsx)
+
+> Nota: un escenario de prueba puede tener uno o más casos de prueba. El caso de prueba es más específico que el escenario de prueba
+
 ### Build RPA
+
+Las responsabilidades del analista de RPA en esta fase comprende la gestión de cambios que puedan ser necesarios durante este punto del proceso. Por lo anterior, el BA deberá:
+
+- Analizar los cambios propuestos
+- Identificar el impacto
+- Usar matriz de trazabilidad para registrar los cambios aprobados
+- Actualizar el PDD
 
 ### Test RPA
 
-En esta etapa se prepara la salida a producción
+![alt](assets/CicloTestAndBA.JPG)
+
+En esta etapa se prepara la salida a producción y en general debe de crearse un registro de errores que facilitará la corrección rápida para futuros casos
+
+![alt](assets/RegistrodeErrores.JPG)
 
 ### Stabilize RPA
 
+Las principal responsabilidad del BA en esta etapa es la de entrenarse para comprender toda la información relacionada con la implementación para así permitir que las personas involucradas en el proyecto estén familiarizadas con los proyectos de automatización, entre otros, el equipo de implementación, los equipos de operaciones y soporte técnico. En esta parte se incluye el manual de usuario y se asegura el BS de que los documentos creados hayan llegado a todas las partes involucradas
+
 ### Constant Improvement (Mejora continua)
 
-Se da la administración de los cambios, puede ser en tecnología
+En esta etapa se centra en dos actividades principales:
+
+- Evaluación del rendimiento: Esta actividad se realiza entre el BA y el gestor del proyecto y se hacen mediciones del rendimiento de la RPA
+- Gestión de cambios: En esta actividad se deben de administrar correctamente los cambios ya que se dividen en 3 tipos, los cambios de las entradas, cambios en el proceso donde se deben eliminar pasos y cambios en el orden de ejecución de los pasos existentes.
+
+> Se da la administración de los cambios, puede ser en tecnología
+
+Existen 3 tipos en la evaluación de cambios:
+
+![alt](assets/ChangeEvaluation.JPG)
+
+#### Recursos Adicionales
+
+[Matriz de trazabilidad - Plantilla](assets/Traceability_Matrix_Template.xlsx)
+
+[Formulario de solicitud de cambios - Plantilla](assets/Change_Request_Form_Template.docx)
+
+[Registro de errores - Plantilla](assets/Issue_Log_Template.xlsx)
+
+[Herramienta de evaluación de procesos - Plantilla](assets/Process_Assessment_Tool.xlsx)
+
+> Un proceso mal estudiado es normalmente una situación que crea un mantenimiento crónico. Otro factor que provoca un mantenimiento crónico del robot si se hacen las cosas bien puede fallar cuando los dueños del proceso cambian los mismos, ya que no tienen un estándar para dicho proceso. *Anderson Henao Pimienta*
