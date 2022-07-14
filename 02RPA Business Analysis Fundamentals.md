@@ -227,3 +227,5 @@ Existen 3 tipos en la evaluación de cambios:
 [Herramienta de evaluación de procesos - Plantilla](assets/Process_Assessment_Tool.xlsx)
 
 > Un proceso mal estudiado es normalmente una situación que crea un mantenimiento crónico. Otro factor que provoca un mantenimiento crónico del robot si se hacen las cosas bien puede fallar cuando los dueños del proceso cambian los mismos, ya que no tienen un estándar para dicho proceso. *Anderson Henao Pimienta*
+
+[Diploma de finalización de estudios](assets/LearningPath_Certificate_07142022161608777.pdf)
